@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Tarek Ahmed Hussien</h1>
+<h1 align="center">Hi 👋, I'm Ali Tarek Ahmed</h1>
 <h3 align="center">A Trainee at Information Technology Instituite (ITI) studying Open Source Application Development</h3>
 
 - 📫 How to reach me **eng.alii.tarek@gmail.com**
